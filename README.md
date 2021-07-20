@@ -8,7 +8,7 @@ This is for 2020 Data Creater Camp:Preliminary Round, hosted by NIA(National Inf
 
 ### 1. Preprocessing
 
-- with review length (short vs. long)
+- with length of reviews (short vs. long)
 - tokenizer
   - Okt
   - Komoran
